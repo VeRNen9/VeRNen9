@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @VeRNen9 (Rohit)
-- 👀 I’m passionate about Machine Learning, Data Visualizations, Deployment, and Maintenance. I love leveraging data to derive insights and create impactful solutions.
-- 🌱 Currently, I'm deepening my knowledge in Kubernetes and AWS to enhance my skills in deploying and managing scalable applications.
-- 💼 I have experience in building predictive models, creating interactive visualizations, and deploying machine learning solutions.
-- 💞️ I’m looking to collaborate on interesting data science projects, especially those focused on time-series analysis and predictive modeling.
-- 📫 Feel free to reach out to me via email at nekki.vr@gmail.com. Let's connect and work on something exciting together!
+Hi, I’m @VeRNen9 (Rohit)
 
+Focus: I live at the intersection of Data Engineering, Data Science, and Visualization. I enjoy building the pipelines, running the models, and showing off the results.
 
-<!---
-VeRNen9/VeRNen9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Learning: Currently diving deep into Kubernetes and AWS to make sure my data solutions are as scalable as they are smart.
+
+Experience: I’ve spent my time building predictive models, designing ETL workflows, and creating dashboards that actually tell a story.
+
+Collaboration: I’m looking to jump into projects involving end-to-end data systems, especially anything involving time-series analysis or complex data orchestration.
+
+Contact: Drop me a line at nekki.vr@gmail.com. Let’s build something cool.
